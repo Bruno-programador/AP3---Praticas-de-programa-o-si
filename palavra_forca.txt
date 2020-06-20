@@ -1,0 +1,14 @@
+"""
+Não modificar esse texto
+adicionar palavras como no exemplo
+
+'palavra': 'dica'
+"""
+
+cinema: lugar para ver filmes
+coronavirus: pandemia de 2020
+ovelha: animal de fazenda
+camisa: uma vestimenta
+abacaxi: uma fruta
+hiena: animal da savana
+python: linguagem de programacao
